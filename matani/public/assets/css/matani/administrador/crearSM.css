@@ -1,0 +1,44 @@
+
+.tituloM{
+    color:#c0003e;
+}
+
+.tituloSeccion{
+   
+    color:  #17a389;
+}
+
+.tituloSub{
+   color:  #13153a;
+   text-transform: capitalize;
+}
+
+
+.subS{
+    border: #17a389 solid ;
+    width: 95%;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.ta{
+    border: lightblue solid;
+    width: 85%;
+    padding: 10px;
+}
+
+.archivo{
+    border: lightblue solid;
+    padding:15px;
+}
+.herramientas{
+    width: 80%;
+    background-color: #13153a;
+    position: sticky;
+}
+
+.tache{
+    color: red;
+    float: right;
+}

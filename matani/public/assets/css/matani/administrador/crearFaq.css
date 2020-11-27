@@ -1,0 +1,17 @@
+.nuevaFaq{
+    border: lightblue solid;
+    padding: 5px;
+    margin-top:10px ;
+    margin-bottom: 10px;
+    
+}
+
+.errorMatani{
+    color: #c0003e;
+}
+
+.tache{
+    color: red;
+    float: right;
+    margin-right: 15px;
+}

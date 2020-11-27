@@ -1,0 +1,69 @@
+
+.frakHeader{
+  background-color: black;
+}
+
+.contenidoFraktal{
+  float: left;
+  background-color: cyan;
+  padding: 5px; /* if you want space between the images */
+}
+
+.jumbotron{
+  background-color:#13153A;
+  background-image: url(https://angelrull.com/wp-content/uploads/2017/12/libros-psicologia-gratis-pdf.jpg);
+}
+.tipoMatani{
+  color:  #ffffff !important; 
+  font-weight: 600;
+  font-size: 80px  ;
+}
+.tipoFraktal{color: #c0003e;}
+
+.imgManual{
+  width: 200px;
+  height: 200px;
+}
+.espMat{
+  background-color:#13153A;
+  background-image: url(https://angelrull.com/wp-content/uploads/2017/12/libros-psicologia-gratis-pdf.jpg);
+  margin-right: 0px;
+  margin-left: 0px;
+  margin-bottom: 15px;
+  height: 80%;
+}
+  .bienvenida{
+          font-size: 25px;
+          color:black;
+
+          text-align: center;
+          line-height: 1.0;
+          }
+
+
+  .manual{
+    border: black  2px solid;
+    border-radius: 20px;
+    margin:5px;
+    height: 400px;
+  }
+
+  .manual:hover {
+    border:none;
+    box-shadow: 0 8px 16px 0 rgba(154, 212, 196, 0.925);
+  }
+
+.tituloM{
+   font-weight: 600; 
+   color: #ec0049 !important;
+ }
+
+
+ 
+ 
+ .descripcion{
+   color:black;
+ }
+
+  
+  

@@ -1,0 +1,17 @@
+
+.seccionFaq{
+    color:  #17a389;
+    text-transform: capitalize;
+}
+
+
+
+.clave{
+    background-image: linear-gradient(-90deg,  #13153a, #3ec7d5);
+
+}
+
+.tipoClave{
+    color:    white
+    !important;
+}

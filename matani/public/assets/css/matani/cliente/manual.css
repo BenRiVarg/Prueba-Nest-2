@@ -1,0 +1,19 @@
+.tituloSeccion{
+   
+    color:  #17a389;
+}
+
+.tituloSub{
+   color:  #13153a;
+   text-transform: capitalize;
+}
+
+.contenedor{
+  
+    word-wrap: break-word;
+   
+}
+
+.justificado{
+    text-align: justify;
+}

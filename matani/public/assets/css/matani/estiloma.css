@@ -1,0 +1,106 @@
+
+body{background-color:   white;}
+
+.encabezado{background-color: #003544 ;
+    background-image: linear-gradient(180deg,#e0ebeb,white);
+}
+
+.tipoFraktal{color: #c0003e;}
+
+#lmatani{
+    float:left;
+    color:#006666;
+    width:107px;
+    height: 72px;
+}
+
+.lfraktal{
+    float: right;
+    text-align: center;
+    margin-right: 10px;
+    overflow: auto;
+    display: inline-block;
+}
+#lfraktal{
+   /* float: right;*/
+    text-align: center;
+    margin-right: 10px;
+    overflow: auto;
+    display: inline-block;
+}
+
+.logos{
+    display: flex;
+  justify-content: space-between;
+}
+
+#tituloManual{
+   
+    padding-top: 15px;
+    text-align: center;
+    width: 100%;
+    text-transform: uppercase;
+    color: #ec0049;
+   
+   
+}
+
+nav{
+
+    background-color:#003544;
+    width: 100%;
+
+}
+
+nav p {
+    display: inline-flex;
+    padding-left: 20%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+nav a{
+    color: #f7a36c;
+    display: inline-flex;
+    padding-left: 20%;
+  
+  
+}
+
+nav a:hover{
+    color:  #c0003e;
+    text-decoration: none;
+   
+}
+
+
+
+.seccion{
+    margin-top: 10px;
+    border:solid white;
+    background-color: white;
+    
+}
+
+.titulo{
+    border: #e8424f solid 4px;
+    width: 40%;
+    text-align: center;
+    margin:auto;
+    margin-top: 10px;
+    padding: 5px;
+}
+
+
+/*
+Paleta de colores
+*/
+
+.paleta{
+    color: #f7a36c;
+    background-color:  #17a389;
+    background-color:  #ec0049;
+    background-color:  #c0003e;
+    background-color:  #f4fffd;
+    background-color:  #13153a;
+}
